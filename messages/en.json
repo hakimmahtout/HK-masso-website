@@ -1,0 +1,587 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "reservations": "My Reservations",
+    "profile": "Profile",
+    "login": "Login",
+    "bookAppointment": "Book an appointment"
+  },
+  "Branding": {
+    "title": "HK Masso",
+    "subtitle": "Wellness & Massage Studio"
+  },
+  "Hero": {
+    "imageAlt": "Serenity wellness therapist preparing a treatment room",
+    "ratingBadge": "Rated 4.9 by 1,200+ guests",
+    "headline": "Care that brings you back to yourself.",
+    "subheadline": "Expert massage, facial and body rituals tailored around how you feel today—and how you want to feel tomorrow.",
+    "bookAppointment": "Book appointment",
+    "signInToBook": "Sign in to book appointment",
+    "exploreServices": "Explore services",
+    "licensedPractitioners": "Licensed practitioners",
+    "easyOnlineBooking": "Easy online booking"
+  },
+  "HomeReviews": {
+    "eyebrow": "Guest notes",
+    "heading": "The feeling stays with you."
+  },
+  "HomeServices": {
+    "eyebrow": "Selected treatments",
+    "heading": "Care, considered down to the last detail.",
+    "viewAll": "View all services"
+  },
+  "HomeStats": {
+    "appointments": "Appointments completed",
+    "rating": "Average customer rating",
+    "practitioners": "Expert practitioners",
+    "returnRate": "Customers return"
+  },
+  "Footer": {
+    "description": "Thoughtful treatments, skilled practitioners and a calmer way to care for yourself.",
+    "discover": {
+      "title": "Discover",
+      "services": "Services",
+      "about": "About us",
+      "bookNow": "Book now"
+    },
+    "account": {
+      "title": "Account",
+      "myBookings": "My bookings",
+      "profile": "Profile",
+      "login": "Log in"
+    },
+    "visit": {
+      "title": "Visit us",
+      "addressLine1": "18 Rue de la Paix",
+      "addressLine2": "75002 Paris, France",
+      "hours": "Mon–Sat, 9:00–19:00",
+      "phone": "+33 1 84 80 26 40"
+    },
+    "copyright": "© 2026 HK Masso. All rights reserved.",
+    "legal": "Privacy · Terms · Accessibility"
+  },
+  "Auth": {
+    "continueWithGoogle": "Continue with Google",
+    "loggingIn": "Logging in...",
+    "logout": "Log out",
+    "logoutDialog": {
+      "title": "Log out?",
+      "description": "Are you sure you want to log out of your account?",
+      "cancel": "Cancel",
+      "confirm": "Log out",
+      "loggingOut": "Logging out..."
+    }
+  },
+  "LoginPage": {
+    "eyebrow": "Welcome Back",
+    "heading": "Sign in to your account",
+    "subheading": "Access your personalized wellness profile and manage bookings.",
+    "continueWithFacebook": "Continue with Facebook",
+    "termsPrefix": "By logging in, you agree to our",
+    "termsLink": "Terms of Service",
+    "termsAnd": "and",
+    "privacyLink": "Privacy Policy"
+  },
+  "ProfilePage": {
+    "title": "Personal information",
+    "description": "Manage the personal details used for appointments and receipts.",
+    "labels": {
+      "fullName": "Full name",
+      "gender": "Gender",
+      "email": "Email"
+    },
+    "genderOptions": {
+      "select": "Select gender",
+      "male": "Male",
+      "female": "Female"
+    },
+    "saveChanges": "Save changes",
+    "updating": "Updating..."
+  },
+  "SettingsPage": {
+    "title": "Account settings",
+    "description": "Manage your customer account.",
+    "deleteAccount": {
+      "title": "Delete account",
+      "description": "Permanently delete your account and associated customer data. This action cannot be undone.",
+      "button": "Delete account"
+    },
+    "deleteAccountDialog": {
+      "title": "Delete account?",
+      "description": "Are you sure you want to delete your account? This action is permanent and cannot be undone.",
+      "cancel": "Cancel",
+      "confirm": "Delete account",
+      "deleting": "Deleting account..."
+    }
+  },
+  "ProfileLayout": {
+    "eyebrow": "Your account",
+    "title": "Profile & preferences",
+    "description": "Keep your details current and choose how you'd like to hear from us."
+  },
+  "Common": {
+    "loading": "Loading..."
+  },
+  "NotFoundPage": {
+    "heading": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "button": "Go home"
+  },
+  "ErrorPage": {
+    "heading": "This page didn't load",
+    "description": "Something went wrong on our end. You can try refreshing or head back home.",
+    "tryAgain": "Try again",
+    "goHome": "Go home"
+  },
+  "ProfileSidebar": {
+    "personalInfo": "Personal information",
+    "accountSettings": "Account settings"
+  },
+  "BookingsPage": {
+    "metadata": {
+      "title": "My Bookings",
+      "description": "View and manage your massage therapy appointments at HK Masso. Track upcoming sessions and treatment history.",
+      "ogTitle": "My Bookings | HK Masso",
+      "ogDescription": "Your massage therapy sessions and bookings at HK Masso."
+    },
+    "header": {
+      "eyebrow": "Your appointments",
+      "title": "My bookings",
+      "description": "Keep track of upcoming treatments and revisit your wellness history."
+    }
+  },
+  "BookingDetailsPage": {
+    "backToBookings": "My bookings",
+    "metadata": {
+      "defaultServiceName": "Massage Treatment",
+      "title": "Booking - {serviceName}",
+      "description": "Details of your HK Masso appointment on {date}."
+    }
+  },
+  "BookingAside": {
+    "status": "Status",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "completed": "Completed",
+    "cancelled": "Cancelled",
+    "total": "Total"
+  },
+  "BookingCard": {
+    "serviceImageAlt": "Service image",
+    "duration": "{minutes} minutes",
+    "details": "Details"
+  },
+  "BookingDetails": {
+    "serviceImageAlt": "Service image",
+    "date": "Date",
+    "time": "Time",
+    "duration": "{minutes} minutes",
+    "practitioner": "Practitioner",
+    "noPractitioner": "Assigned Therapist",
+    "customer": "Customer",
+    "notes": "Notes",
+    "noNotes": "No additional notes provided."
+  },
+  "BookingReview": {
+    "title": "Treatment Review",
+    "existingFeedback": "You shared your feedback for this treatment:",
+    "prompt": "How was your experience? Leave a review to help us maintain our standard of care."
+  },
+  "BookingsFilter": {
+    "all": "All",
+    "pending": "Pending",
+    "confirmed": "Confirmed",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  },
+  "BookingsListAndFilter": {
+    "emptyAllTitle": "No bookings found",
+    "emptyAllDescription": "You haven't made any reservations yet.",
+    "emptyFilteredTitle": "No {status} bookings",
+    "emptyFilteredDescription": "You don't have any appointments marked as \"{status}\".",
+    "statuses": {
+      "all": "all",
+      "pending": "pending",
+      "confirmed": "confirmed",
+      "completed": "completed",
+      "cancelled": "cancelled"
+    }
+  },
+  "CancelBookingDialog": {
+    "title": "Cancel Reservation?",
+    "description": "Are you sure you want to cancel this booking? This action cannot be undone.",
+    "keepBooking": "Keep Booking",
+    "confirmCancel": "Yes, Cancel",
+    "cancelling": "Cancelling...",
+    "defaultError": "Something went wrong. Please try again."
+  },
+  "CancelButton": {
+    "cancelAppointment": "Cancel appointment"
+  },
+  "EmptyBookings": {
+    "defaultTitle": "No bookings found",
+    "defaultDescription": "You don't have any appointments scheduled under this filter.",
+    "bookButton": "Book an appointment"
+  },
+  "ReviewCard": {
+    "ratingScore": "{rating} / 5"
+  },
+  "ReviewForm": {
+    "ratingLabel": "{count} of 5 stars",
+    "placeholder": "Tell us what you liked about your treatment or therapist...",
+    "submit": "Submit Review",
+    "submitting": "Submitting..."
+  },
+  "ContactPage": {
+    "metadata": {
+      "title": "Contact",
+      "description": "Get in touch with HK Masso. Have questions about our massages, rates, or reservations? Reach out easily by phone or via our contact form.",
+      "keywords": {
+        "1": "HK Masso contact",
+        "2": "Book massage appointment",
+        "3": "Massage clinic address",
+        "4": "HK Masso phone number",
+        "5": "Massage therapy information"
+      },
+      "openGraph": {
+        "title": "Contact | HK Masso",
+        "description": "Need information or help with your reservation? Contact the HK Masso team."
+      }
+    },
+    "eyebrow": "Get in touch",
+    "headerTitle": "We're here to help.",
+    "headerDescription": "Questions about a treatment or your next visit? Our studio team will be happy to guide you.",
+    "visitTitle": "Visit the studio",
+    "phoneLabel": "Call us",
+    "emailLabel": "Email",
+    "addressLabel": "Address",
+    "addressValue": "18 Rue de la Paix, 75002 Paris",
+    "hoursLabel": "Opening hours",
+    "hoursValue": "Monday–Saturday, 9:00–19:00",
+    "studioName": "Serenity Wellness Studio",
+    "studioLocation": "Central Paris · 3 min from Opéra"
+  },
+  "ContactForm": {
+    "formTitle": "Send a message",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "you@email.com",
+    "phoneLabel": "Phone",
+    "phonePlaceholder": "Your phone",
+    "subjectLabel": "Subject",
+    "subjects": {
+      "booking": "Booking question",
+      "advice": "Treatment advice",
+      "general": "General enquiry"
+    },
+    "messageLabel": "Message",
+    "messagePlaceholder": "How can we help?",
+    "submitButton": "Send message"
+  },
+  "AboutPage": {
+    "metadata": {
+      "title": "About Us",
+      "description": "Discover the story of HK Masso, our massage therapy philosophy, and our commitment to offering tailored care for your well-being.",
+      "keywords": {
+        "1": "About HK Masso",
+        "2": "Qualified massage therapist",
+        "3": "Massage therapy philosophy",
+        "4": "Massage studio",
+        "5": "Wellness and relaxation"
+      },
+      "openGraph": {
+        "title": "About Us | HK Masso",
+        "description": "Discover the story and approach of HK Masso. Massage treatments tailored to your needs for deep well-being."
+      }
+    },
+    "eyebrow": "Our story",
+    "headerTitle": "Wellness should feel personal, never prescribed.",
+    "headerDescription": "Serenity began with a simple belief: expert care works best when people feel heard, unrushed and at ease.",
+    "heroImageAlt": "Serenity practitioner preparing the studio",
+    "since": "Since 2018",
+    "storyTitle": "A quieter, more thoughtful kind of care.",
+    "storyDescription": "We created Serenity as an antidote to rushed appointments and one-size-fits-all treatments. Our practitioners combine deep expertise with genuine attention, shaping every visit around you.",
+    "values": {
+      "care": {
+        "title": "Care deeply",
+        "text": "We listen before we treat."
+      },
+      "trust": {
+        "title": "Earn trust",
+        "text": "Transparent, expert, dependable."
+      },
+      "details": {
+        "title": "Notice details",
+        "text": "Every touchpoint matters."
+      },
+      "human": {
+        "title": "Stay human",
+        "text": "Warmth is part of the treatment."
+      }
+    },
+    "stats": {
+      "completed": "Appointments completed",
+      "rating": "Average customer rating",
+      "practitioners": "Expert practitioners",
+      "returnRate": "Customers return"
+    },
+    "teamEyebrow": "The team",
+    "teamTitle": "Skilled hands. Considered care.",
+    "team": {
+      "worker1": {
+        "name": "Hichem Rahmani",
+        "role": "Senior Massage Therapist"
+      },
+      "worker2": {
+        "name": "Sofia Amari",
+        "role": "Wellness Therapist"
+      },
+      "worker3": {
+        "name": "Nadia Bensalem",
+        "role": "Senior Esthetician"
+      }
+    }
+  },
+  "ReservationPage": {
+    "metadata": {
+      "title": "Book a Treatment",
+      "description": "Book your massage session online at HK Masso. Choose your treatment, select your time slot, and pick your therapist in a few clicks.",
+      "keywords": {
+        "1": "Book massage",
+        "2": "Massage therapy appointment",
+        "3": "HK Masso online booking",
+        "4": "Tailored massage"
+      },
+      "openGraph": {
+        "title": "Book a Treatment | HK Masso",
+        "description": "Book your personalized massage session online. Choose your treatment and time slot at HK Masso."
+      }
+    }
+  },
+  "BookingButton": {
+    "continue": "Continue",
+    "confirm": "Confirm booking",
+    "creating": "Creating..."
+  },
+  "BookingHeader": {
+    "steps": {
+      "service": "Service",
+      "details": "Your details",
+      "practitioner": "Practitioner",
+      "date": "Date",
+      "time": "Time",
+      "review": "Review"
+    },
+    "descriptions": {
+      "service": "Choose your treatment",
+      "details": "Tell us about you",
+      "practitioner": "Choose your practitioner",
+      "date": "Choose a date",
+      "time": "Choose a time",
+      "review": "Review your appointment"
+    }
+  },
+  "BookingStepper": {
+    "steps": {
+      "service": "Service",
+      "details": "Your details",
+      "practitioner": "Practitioner",
+      "date": "Date",
+      "time": "Time",
+      "review": "Review"
+    }
+  },
+  "BookingSummary": {
+    "title": "Your appointment",
+    "duration": "{count, plural, =1 {1 minute} other {# minutes}}",
+    "total": "Total"
+  },
+  "CalendarError": {
+    "message": "Failed to fetch data: {error}",
+    "unknownError": "Unknown error"
+  },
+  "CustomerStep": {
+    "labels": {
+      "fullName": "Full name",
+      "gender": "Gender",
+      "email": "Email",
+      "phone": "Phone",
+      "notes": "Notes for your practitioner"
+    },
+    "placeholders": {
+      "selectGender": "Select gender",
+      "phone": "+1234567890",
+      "notes": "Any preferences, sensitivities or focus areas?"
+    },
+    "genderOptions": {
+      "male": "Male",
+      "female": "Female"
+    }
+  },
+  "GoBack": {
+    "back": "Back",
+    "services": "Services",
+    "stepIndicator": "Step {current} of {total}"
+  },
+  "Legend": {
+    "available": "Available",
+    "today": "Today",
+    "unavailable": "Unavailable"
+  },
+  "ReviewStep": {
+    "service": "Service",
+    "duration": "Duration",
+    "practitioner": "Practitioner",
+    "date": "Date",
+    "time": "Time",
+    "price": "Price",
+    "notAvailable": "N/A",
+    "notSelected": "Not selected",
+    "durationFormat": "{count} minutes"
+  },
+  "ServiceStep": {
+    "fromPrice": "From {price}",
+    "chooseDuration": "Choose duration",
+    "minutesFormat": "{count} min"
+  },
+  "Success": {
+    "eyebrow": "Appointment confirmed",
+    "heading": "Your time is reserved.",
+    "confirmationText": "We look forward to welcoming you. A confirmation has been prepared for <strong>{email}</strong>.",
+    "reference": "Reference",
+    "treatment": "Treatment",
+    "dateTime": "Date & time",
+    "total": "Total",
+    "viewBookings": "View my bookings",
+    "backHome": "Back to home"
+  },
+  "TimesEmpty": {
+    "title": "No Available Times",
+    "description": "There are no open time slots for this date. Please select another day."
+  },
+  "TimesError": {
+    "message": "Failed to fetch data: {error}",
+    "unknownError": "Unknown error"
+  },
+  "TimeStep": {
+    "localTimeNotice": "Times shown in your local time"
+  },
+  "WorkersEmpty": {
+    "noPractitioners": "No practitioners available matching your preferences."
+  },
+  "WorkersError": {
+    "message": "Failed to load practitioners: {error}",
+    "unknownError": "Unknown error"
+  },
+  "WorkerStep": {
+    "roles": {
+      "therapist": "Therapist",
+      "masseur": "Masseur",
+      "masseuse": "Masseuse",
+      "practitioner": "Practitioner"
+    }
+  },
+  "SuccessPage": {
+    "defaultServiceName": "Massage Treatment",
+    "metadataTitle": "Confirmation - {serviceName}",
+    "metadataDescription": "Your reservation at HK Masso has been successfully confirmed."
+  },
+  "BookingFailedPage": {
+    "metadataTitle": "Booking Failed - HK Masso",
+    "metadataDescription": "An issue occurred while processing your reservation at HK Masso.",
+    "eyebrow": "Booking failed",
+    "title": "Reservation Unsuccessful",
+    "defaultMessage": "We couldn't process your reservation due to a scheduling conflict or system error.",
+    "whatHappenedTitle": "What happened?",
+    "whatHappenedDetails": "The selected slot may have been taken, or your session expired. Please try selecting a different time or retry.",
+    "tryAgain": "Try again",
+    "backToHome": "Back to home"
+  },
+  "ServiceCard": {
+    "featured": "Featured",
+    "from": "From",
+    "viewDetails": "View details",
+    "categories": {
+      "massage": "Massage",
+      "relaxing": "Relaxing",
+      "therapeutic": "Therapeutic"
+    }
+  },
+  "ServicesList": {
+    "emptyTitle": "No treatments found",
+    "emptyText": "Try another search or clear your filters.",
+    "emptyAction": "Clear filters",
+    "treatmentsCount": "{count, plural, =1 {1 treatment} other {# treatments}}"
+  },
+  "ServicesSearch": {
+    "placeholder": "Search treatments by name or category",
+    "featured": "Featured",
+    "categories": {
+      "all": "All",
+      "massage": "Massage"
+    }
+  },
+  "ServicesPage": {
+    "eyebrow": "Our services",
+    "title": "Treatments tailored to your whole self.",
+    "description": "Explore thoughtful rituals delivered by experienced practitioners, with time and care built into every appointment.",
+    "metadata": {
+      "title": "Our Services",
+      "description": "Explore our complete menu of massage therapy services: Relaxation Massage, Deep Tissue, Swedish, Ayurvedic, Hot Stones, Therapeutic, and more.",
+      "ogTitle": "Our Services & Massages | HK Masso",
+      "ogDescription": "Discover all our personalized treatments and massages. Book your custom massage therapy session at HK Masso.",
+      "keywords": {
+        "massageTreatments": "Massage treatments",
+        "massageMenu": "Massage menu",
+        "deepTissue": "Deep Tissue massage",
+        "swedish": "Swedish massage",
+        "ayurvedic": "Ayurvedic massage",
+        "hotStones": "Hot stone massage",
+        "therapeutic": "Therapeutic massage",
+        "sportsMassage": "Sports massage",
+        "hkMasso": "HK Masso therapy"
+      }
+    }
+  },
+  "ServiceDetailsPage": {
+    "metadata": {
+      "massageTherapy": "Massage Therapy",
+      "massageTreatment": "Massage Treatment",
+      "hkMasso": "HK Masso",
+      "massageBooking": "Massage Booking"
+    }
+  },
+  "ServiceReviewsPage": {
+    "backToService": "Back to service",
+    "title": "Customer Reviews",
+    "reviewsCount": "{count, plural, =1 {review} other {reviews}}",
+    "guestUser": "Guest User",
+    "empty": {
+      "title": "No reviews yet",
+      "description": "This service hasn't received any customer feedback. Be the first to try it out!"
+    },
+    "metadata": {
+      "title": "Customer Reviews",
+      "description": "Read authentic customer reviews and ratings for {serviceName}."
+    }
+  },
+  "ServiceBenefitsAndReviews": {
+    "eyebrow": "What to expect",
+    "title": "A treatment shaped around you.",
+    "anonymousGuest": "Guest Client"
+  },
+  "ServiceDetails": {
+    "allServices": "All services",
+    "consultationNote": "Every session begins with a short consultation so your practitioner can personalize pressure, pace and focus areas.",
+    "bookAppointment": "Book appointment",
+    "reviewsCount": "{count, plural, =1 {# review} other {# reviews}}",
+    "minutes": "{count} minutes"
+  },
+  "ServiceOtherServices": {
+    "title": "You may also like"
+  }
+}

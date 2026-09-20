@@ -1,0 +1,587 @@
+{
+  "Navigation": {
+    "home": "Accueil",
+    "services": "Prestations",
+    "about": "À propos",
+    "contact": "Contact",
+    "reservations": "Mes réservations",
+    "profile": "Profil",
+    "login": "Connexion",
+    "bookAppointment": "Réserver un soin"
+  },
+  "Branding": {
+    "title": "HK Masso",
+    "subtitle": "Studio de bien-être et massage"
+  },
+  "Hero": {
+    "imageAlt": "Thérapeute préparent une salle de soin au studio",
+    "ratingBadge": "Noté 4,9 par plus de 1 200 clients",
+    "headline": "Des soins qui vous ramènent à vous-même.",
+    "subheadline": "Des massages experts, soins du visage et rituels corporels adaptés à vos besoins d'aujourd'hui et de demain.",
+    "bookAppointment": "Réserver un rendez-vous",
+    "signInToBook": "Se connecter pour réserver",
+    "exploreServices": "Découvrir les services",
+    "licensedPractitioners": "Praticiens certifiés",
+    "easyOnlineBooking": "Réservation simple en ligne"
+  },
+  "HomeReviews": {
+    "eyebrow": "Avis de nos clients",
+    "heading": "Une sensation durable de bien-être."
+  },
+  "HomeServices": {
+    "eyebrow": "Soins sélectionnés",
+    "heading": "Des soins pensés dans les moindres détails.",
+    "viewAll": "Voir tous les services"
+  },
+  "HomeStats": {
+    "appointments": "Rendez-vous honorés",
+    "rating": "Note moyenne des clients",
+    "practitioners": "Praticiens experts",
+    "returnRate": "Fidélité des clients"
+  },
+  "Footer": {
+    "description": "Des soins attentionnés, des praticiens expérimentés et une approche plus sereine du bien-être.",
+    "discover": {
+      "title": "Découvrir",
+      "services": "Services",
+      "about": "À propos",
+      "bookNow": "Réserver"
+    },
+    "account": {
+      "title": "Compte",
+      "myBookings": "Mes réservations",
+      "profile": "Profil",
+      "login": "Se connecter"
+    },
+    "visit": {
+      "title": "Nous rendre visite",
+      "addressLine1": "18 Rue de la Paix",
+      "addressLine2": "75002 Paris, France",
+      "hours": "Lun–Sam, 9h00–19h00",
+      "phone": "+33 1 84 80 26 40"
+    },
+    "copyright": "© 2026 HK Masso. Tous droits réservés.",
+    "legal": "Confidentialité · Conditions · Accessibilité"
+  },
+  "Auth": {
+    "continueWithGoogle": "Continuer avec Google",
+    "loggingIn": "Connexion en cours...",
+    "logout": "Se déconnecter",
+    "logoutDialog": {
+      "title": "Déconnexion ?",
+      "description": "Êtes-vous sûr de vouloir vous déconnecter de votre compte ?",
+      "cancel": "Annuler",
+      "confirm": "Se déconnecter",
+      "loggingOut": "Déconnexion en cours..."
+    }
+  },
+  "LoginPage": {
+    "eyebrow": "Bon retour",
+    "heading": "Connectez-vous à votre compte",
+    "subheading": "Accédez à votre profil bien-être personnalisé et gérez vos réservations.",
+    "continueWithFacebook": "Continuer avec Facebook",
+    "termsPrefix": "En vous connectant, vous acceptez nos",
+    "termsLink": "Conditions d'utilisation",
+    "termsAnd": "et notre",
+    "privacyLink": "Politique de confidentialité"
+  },
+  "ProfilePage": {
+    "title": "Informations personnelles",
+    "description": "Gérez vos informations personnelles utilisées pour vos rendez-vous et vos reçus.",
+    "labels": {
+      "fullName": "Nom complet",
+      "gender": "Genre",
+      "email": "E-mail"
+    },
+    "genderOptions": {
+      "select": "Sélectionner le genre",
+      "male": "Homme",
+      "female": "Femme"
+    },
+    "saveChanges": "Enregistrer les modifications",
+    "updating": "Mise à jour..."
+  },
+  "SettingsPage": {
+    "title": "Paramètres du compte",
+    "description": "Gérez votre compte client.",
+    "deleteAccount": {
+      "title": "Supprimer le compte",
+      "description": "Supprimez définitivement votre compte et vos données client associées. Cette action est irréversible.",
+      "button": "Supprimer le compte"
+    },
+    "deleteAccountDialog": {
+      "title": "Supprimer le compte ?",
+      "description": "Êtes-vous sûr de vouloir supprimer votre compte ? Cette action est définitive et irréversible.",
+      "cancel": "Annuler",
+      "confirm": "Supprimer le compte",
+      "deleting": "Suppression du compte..."
+    }
+  },
+  "ProfileLayout": {
+    "eyebrow": "Votre compte",
+    "title": "Profil & préférences",
+    "description": "Mettez à jour vos informations et choisissez comment vous souhaitez qu'on communique avec vous."
+  },
+  "Common": {
+    "loading": "Chargement..."
+  },
+  "NotFoundPage": {
+    "heading": "Page non trouvée",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "button": "Retour à l'accueil"
+  },
+  "ErrorPage": {
+    "heading": "Cette page n'a pas pu être chargée",
+    "description": "Un problème est survenu de notre côté. Vous pouvez réessayer ou retourner à l'accueil.",
+    "tryAgain": "Réessayer",
+    "goHome": "Retour à l'accueil"
+  },
+  "ProfileSidebar": {
+    "personalInfo": "Informations personnelles",
+    "accountSettings": "Paramètres du compte"
+  },
+  "BookingsPage": {
+    "metadata": {
+      "title": "Mes Rendez-vous",
+      "description": "Consultez et gérez vos réservations de massothérapie chez HK Masso. Visualisez vos séances à venir et l'historique de vos soins.",
+      "ogTitle": "Mes Rendez-vous | HK Masso",
+      "ogDescription": "Vos séances et réservations de massage chez HK Masso."
+    },
+    "header": {
+      "eyebrow": "Vos rendez-vous",
+      "title": "Mes réservations",
+      "description": "Suivez vos prochains soins et consultez l'historique de votre parcours bien-être."
+    }
+  },
+  "BookingDetailsPage": {
+    "backToBookings": "Mes réservations",
+    "metadata": {
+      "defaultServiceName": "Soin de Massage",
+      "title": "Réservation - {serviceName}",
+      "description": "Détails de votre rendez-vous HK Masso le {date}."
+    }
+  },
+  "BookingAside": {
+    "status": "Statut",
+    "pending": "En attente",
+    "confirmed": "Confirmé",
+    "completed": "Terminé",
+    "cancelled": "Annulé",
+    "total": "Total"
+  },
+  "BookingCard": {
+    "serviceImageAlt": "Image du service",
+    "duration": "{minutes} minutes",
+    "details": "Détails"
+  },
+  "BookingDetails": {
+    "serviceImageAlt": "Image du service",
+    "date": "Date",
+    "time": "Heure",
+    "duration": "{minutes} minutes",
+    "practitioner": "Praticien",
+    "noPractitioner": "Thérapeute assigné",
+    "customer": "Client",
+    "notes": "Notes",
+    "noNotes": "Aucune note supplémentaire."
+  },
+  "BookingReview": {
+    "title": "Avis sur le soin",
+    "existingFeedback": "Vous avez partagé votre avis pour ce soin :",
+    "prompt": "Comment s'est passée votre expérience ? Laissez un avis pour nous aider à maintenir la qualité de nos soins."
+  },
+  "BookingsFilter": {
+    "all": "Tous",
+    "pending": "En attente",
+    "confirmed": "Confirmé",
+    "completed": "Terminé",
+    "cancelled": "Annulé"
+  },
+  "BookingsListAndFilter": {
+    "emptyAllTitle": "Aucune réservation trouvée",
+    "emptyAllDescription": "Vous n'avez pas encore effectué de réservation.",
+    "emptyFilteredTitle": "Aucune réservation {status}",
+    "emptyFilteredDescription": "Vous n'avez aucun rendez-vous marqué comme \"{status}\".",
+    "statuses": {
+      "all": "toutes",
+      "pending": "en attente",
+      "confirmed": "confirmée",
+      "completed": "terminée",
+      "cancelled": "annulée"
+    }
+  },
+  "CancelBookingDialog": {
+    "title": "Annuler la réservation ?",
+    "description": "Êtes-vous sûr de vouloir annuler cette réservation ? Cette action est irréversible.",
+    "keepBooking": "Conserver la réservation",
+    "confirmCancel": "Oui, annuler",
+    "cancelling": "Annulation...",
+    "defaultError": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "CancelButton": {
+    "cancelAppointment": "Annuler le rendez-vous"
+  },
+  "EmptyBookings": {
+    "defaultTitle": "Aucune réservation trouvée",
+    "defaultDescription": "Vous n'avez aucun rendez-vous prévu sous ce filtre.",
+    "bookButton": "Réserver un rendez-vous"
+  },
+  "ReviewCard": {
+    "ratingScore": "{rating} / 5"
+  },
+  "ReviewForm": {
+    "ratingLabel": "{count} sur 5 étoiles",
+    "placeholder": "Dites-nous ce que vous avez aimé dans votre soin ou avec votre thérapeute...",
+    "submit": "Soumettre l'avis",
+    "submitting": "Envoi en cours..."
+  },
+  "ContactPage": {
+    "metadata": {
+      "title": "Contact",
+      "description": "Prenez contact avec HK Masso. Une question sur nos massages, nos tarifs ou votre réservation ? Contactez-nous facilement par téléphone ou via notre formulaire.",
+      "keywords": {
+        "1": "Contact HK Masso",
+        "2": "Prendre rendez-vous massage",
+        "3": "Adresse cabinet massage",
+        "4": "Téléphone HK Masso",
+        "5": "Renseignements massothérapie"
+      },
+      "openGraph": {
+        "title": "Contact | HK Masso",
+        "description": "Besoin d'informations ou d'aide pour votre réservation ? Contactez l'équipe HK Masso."
+      }
+    },
+    "eyebrow": "Contactez-nous",
+    "headerTitle": "Nous sommes là pour vous aider.",
+    "headerDescription": "Des questions sur un soin ou votre prochaine visite ? L'équipe de notre studio se fera un plaisir de vous guider.",
+    "visitTitle": "Visiter le studio",
+    "phoneLabel": "Appelez-nous",
+    "emailLabel": "E-mail",
+    "addressLabel": "Adresse",
+    "addressValue": "18 Rue de la Paix, 75002 Paris",
+    "hoursLabel": "Heures d'ouverture",
+    "hoursValue": "Lundi–Samedi, 9:00–19:00",
+    "studioName": "Studio Serenity Wellness",
+    "studioLocation": "Centre de Paris · À 3 min de l'Opéra"
+  },
+  "ContactForm": {
+    "formTitle": "Envoyer un message",
+    "nameLabel": "Nom",
+    "namePlaceholder": "Votre nom",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "vous@email.com",
+    "phoneLabel": "Téléphone",
+    "phonePlaceholder": "Votre téléphone",
+    "subjectLabel": "Sujet",
+    "subjects": {
+      "booking": "Question sur la réservation",
+      "advice": "Conseil sur un soin",
+      "general": "Demande générale"
+    },
+    "messageLabel": "Message",
+    "messagePlaceholder": "Comment pouvons-nous vous aider ?",
+    "submitButton": "Envoyer le message"
+  },
+  "AboutPage": {
+    "metadata": {
+      "title": "À Propos",
+      "description": "Découvrez l'histoire de HK Masso, notre philosophie de la massothérapie et notre engagement à vous offrir des soins sur-mesure pour votre bien-être.",
+      "keywords": {
+        "1": "À propos HK Masso",
+        "2": "Massothérapeute qualifié",
+        "3": "Philosophie massothérapie",
+        "4": "Cabinet de massage",
+        "5": "Bien-être et relaxation"
+      },
+      "openGraph": {
+        "title": "À Propos | HK Masso",
+        "description": "Découvrez l'histoire et l'approche de HK Masso. Des soins de massothérapie adaptés à vos besoins pour un bien-être profond."
+      }
+    },
+    "eyebrow": "Notre histoire",
+    "headerTitle": "Le bien-être doit être personnel, jamais imposé.",
+    "headerDescription": "Serenity est née d'une conviction simple : les soins d'experts sont plus efficaces quand on se sent écouté, sans hâte et à l'aise.",
+    "heroImageAlt": "Praticienne Serenity préparant le studio",
+    "since": "Depuis 2018",
+    "storyTitle": "Une attention plus calme et plus réfléchie.",
+    "storyDescription": "Nous avons créé Serenity pour contrer les rendez-vous précipités et les soins standardisés. Nos praticiens allient une expertise approfondie à une attention sincère, façonnant chaque visite selon vos besoins.",
+    "values": {
+      "care": {
+        "title": "S'investir pleinement",
+        "text": "Nous écoutons avant de traiter."
+      },
+      "trust": {
+        "title": "Mériter la confiance",
+        "text": "Transparent, expert, fiable."
+      },
+      "details": {
+        "title": "Soigner les détails",
+        "text": "Chaque détail compte."
+      },
+      "human": {
+        "title": "Rester humain",
+        "text": "La chaleur humaine fait partie du soin."
+      }
+    },
+    "stats": {
+      "completed": "Rendez-vous effectués",
+      "rating": "Note moyenne des clients",
+      "practitioners": "Praticiens experts",
+      "returnRate": "Fidélité des clients"
+    },
+    "teamEyebrow": "L'équipe",
+    "teamTitle": "Des mains expertes. Un soin attentionné.",
+    "team": {
+      "worker1": {
+        "name": "Hichem Rahmani",
+        "role": "Massothérapeute Senior"
+      },
+      "worker2": {
+        "name": "Sofia Amari",
+        "role": "Thérapeute Bien-être"
+      },
+      "worker3": {
+        "name": "Nadia Bensalem",
+        "role": "Esthéticienne Senior"
+      }
+    }
+  },
+  "ReservationPage": {
+    "metadata": {
+      "title": "Réserver un Soin",
+      "description": "Réservez votre séance de massage en ligne chez HK Masso. Choisissez votre soin, sélectionnez votre créneau horaire et votre thérapeute en quelques clics.",
+      "keywords": {
+        "1": "Réserver massage",
+        "2": "Rendez-vous massothérapie",
+        "3": "Réservation en ligne HK Masso",
+        "4": "Massage sur-mesure"
+      },
+      "openGraph": {
+        "title": "Réserver un Soin | HK Masso",
+        "description": "Réservez votre séance de massage personnalisée en ligne. Choisissez votre soin et votre créneau horaire chez HK Masso."
+      }
+    }
+  },
+  "BookingButton": {
+    "continue": "Continuer",
+    "confirm": "Confirmer la réservation",
+    "creating": "Création en cours..."
+  },
+  "BookingHeader": {
+    "steps": {
+      "service": "Soin",
+      "details": "Vos coordonnées",
+      "practitioner": "Praticien",
+      "date": "Date",
+      "time": "Heure",
+      "review": "Récapitulatif"
+    },
+    "descriptions": {
+      "service": "Choisissez votre soin",
+      "details": "Dites-nous en plus sur vous",
+      "practitioner": "Choisissez votre praticien",
+      "date": "Choisissez une date",
+      "time": "Choisissez un créneau",
+      "review": "Vérifiez votre rendez-vous"
+    }
+  },
+  "BookingStepper": {
+    "steps": {
+      "service": "Soin",
+      "details": "Vos coordonnées",
+      "practitioner": "Praticien",
+      "date": "Date",
+      "time": "Heure",
+      "review": "Récapitulatif"
+    }
+  },
+  "BookingSummary": {
+    "title": "Votre rendez-vous",
+    "duration": "{count, plural, =1 {1 minute} other {# minutes}}",
+    "total": "Total"
+  },
+  "CalendarError": {
+    "message": "Échec de la récupération des données : {error}",
+    "unknownError": "Erreur inconnue"
+  },
+  "CustomerStep": {
+    "labels": {
+      "fullName": "Nom complet",
+      "gender": "Sexe",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "notes": "Notes pour votre praticien"
+    },
+    "placeholders": {
+      "selectGender": "Sélectionner le sexe",
+      "phone": "+33612345678",
+      "notes": "Des préférences, sensibilités ou zones à cibler ?"
+    },
+    "genderOptions": {
+      "male": "Homme",
+      "female": "Femme"
+    }
+  },
+  "GoBack": {
+    "back": "Retour",
+    "services": "Services",
+    "stepIndicator": "Étape {current} sur {total}"
+  },
+  "Legend": {
+    "available": "Disponible",
+    "today": "Aujourd'hui",
+    "unavailable": "Indisponible"
+  },
+  "ReviewStep": {
+    "service": "Service",
+    "duration": "Durée",
+    "practitioner": "Praticien",
+    "date": "Date",
+    "time": "Heure",
+    "price": "Prix",
+    "notAvailable": "N/D",
+    "notSelected": "Non sélectionné",
+    "durationFormat": "{count} minutes"
+  },
+  "ServiceStep": {
+    "fromPrice": "À partir de {price}",
+    "chooseDuration": "Choisir la durée",
+    "minutesFormat": "{count} min"
+  },
+  "Success": {
+    "eyebrow": "Rendez-vous confirmé",
+    "heading": "Votre créneau est réservé.",
+    "confirmationText": "Nous avons hâte de vous accueillir. Une confirmation a été préparée pour <strong>{email}</strong>.",
+    "reference": "Référence",
+    "treatment": "Soin",
+    "dateTime": "Date et heure",
+    "total": "Total",
+    "viewBookings": "Voir mes réservations",
+    "backHome": "Retour à l'accueil"
+  },
+  "TimesEmpty": {
+    "title": "Aucun créneau disponible",
+    "description": "Il n'y a pas de créneaux disponibles pour cette date. Veuillez sélectionner un autre jour."
+  },
+  "TimesError": {
+    "message": "Échec de la récupération des données : {error}",
+    "unknownError": "Erreur inconnue"
+  },
+  "TimeStep": {
+    "localTimeNotice": "Heures affichées selon votre heure locale"
+  },
+  "WorkersEmpty": {
+    "noPractitioners": "Aucun praticien disponible ne correspond à vos préférences."
+  },
+  "WorkersError": {
+    "message": "Échec du chargement des praticiens : {error}",
+    "unknownError": "Erreur inconnue"
+  },
+  "WorkerStep": {
+    "roles": {
+      "therapist": "Thérapeute",
+      "masseur": "Masseur",
+      "masseuse": "Masseuse",
+      "practitioner": "Praticien"
+    }
+  },
+  "SuccessPage": {
+    "defaultServiceName": "Soin de Massage",
+    "metadataTitle": "Confirmation - {serviceName}",
+    "metadataDescription": "Votre réservation chez HK Masso a été confirmée avec succès."
+  },
+  "BookingFailedPage": {
+    "metadataTitle": "Échec de la Réservation - HK Masso",
+    "metadataDescription": "Un problème est survenu lors du traitement de votre réservation chez HK Masso.",
+    "eyebrow": "Réservation échouée",
+    "title": "Réservation non réussie",
+    "defaultMessage": "Nous n'avons pas pu traiter votre réservation en raison d'un conflit d'horaire ou d'une erreur système.",
+    "whatHappenedTitle": "Que s'est-il passé ?",
+    "whatHappenedDetails": "Le créneau sélectionné est peut-être déjà pris ou votre session a expiré. Veuillez choisir un autre horaire ou réessayer.",
+    "tryAgain": "Réessayer",
+    "backToHome": "Retour à l'accueil"
+  },
+  "ServiceCard": {
+    "featured": "En vedette",
+    "from": "À partir de",
+    "viewDetails": "Voir les détails",
+    "categories": {
+      "massage": "Massage",
+      "relaxing": "Relaxant",
+      "therapeutic": "Thérapeutique"
+    }
+  },
+  "ServicesList": {
+    "emptyTitle": "Aucun soin trouvé",
+    "emptyText": "Essayez une autre recherche ou effacez vos filtres.",
+    "emptyAction": "Effacer les filtres",
+    "treatmentsCount": "{count, plural, =1 {1 soin} other {# soins}}"
+  },
+  "ServicesSearch": {
+    "placeholder": "Rechercher par nom ou catégorie",
+    "featured": "En vedette",
+    "categories": {
+      "all": "Tous",
+      "massage": "Massage"
+    }
+  },
+  "ServicesPage": {
+    "eyebrow": "Nos services",
+    "title": "Des soins adaptés à tout votre être.",
+    "description": "Explorez des rituels attentionnés dispensés par des praticiens expérimentés, avec du temps et de l'attention intégrés à chaque rendez-vous.",
+    "metadata": {
+      "title": "Nos Soins",
+      "description": "Explorez notre carte complète de soins en massothérapie : Massage Détente, Deep Tissue, Suédois, Ayurvédique, Pierres Chaudes, Thérapeutique et plus encore.",
+      "ogTitle": "Nos Soins & Massages | HK Masso",
+      "ogDescription": "Découvrez tous nos soins et massages personnalisés. Réservez votre séance de massothérapie sur-mesure chez HK Masso.",
+      "keywords": {
+        "massageTreatments": "Soins de massage",
+        "massageMenu": "Carte des massages",
+        "deepTissue": "Massage Deep Tissue",
+        "swedish": "Massage Suédois",
+        "ayurvedic": "Massage Ayurvédique",
+        "hotStones": "Massage aux Pierres Chaudes",
+        "therapeutic": "Massage Thérapeutique",
+        "sportsMassage": "Massage Sportif",
+        "hkMasso": "Massothérapie HK Masso"
+      }
+    }
+  },
+  "ServiceDetailsPage": {
+    "metadata": {
+      "massageTherapy": "Massothérapie",
+      "massageTreatment": "Soin de massage",
+      "hkMasso": "HK Masso",
+      "massageBooking": "Réservation massage"
+    }
+  },
+  "ServiceReviewsPage": {
+    "backToService": "Retour au soin",
+    "title": "Avis clients",
+    "reviewsCount": "{count, plural, =1 {avis} other {avis}}",
+    "guestUser": "Utilisateur invité",
+    "empty": {
+      "title": "Aucun avis pour le moment",
+      "description": "Ce soin n'a pas encore reçu de commentaires. Soyez le premier à l'essayer !"
+    },
+    "metadata": {
+      "title": "Avis clients",
+      "description": "Consultez les avis et évaluations authentiques des clients pour {serviceName}."
+    }
+  },
+  "ServiceBenefitsAndReviews": {
+    "eyebrow": "À quoi vous attendre",
+    "title": "Un soin façonné autour de vous.",
+    "anonymousGuest": "Client invité"
+  },
+  "ServiceDetails": {
+    "allServices": "Tous les soins",
+    "consultationNote": "Chaque séance débute par une courte consultation afin que votre praticien puisse personnaliser la pression, le rythme et les zones d'attention.",
+    "bookAppointment": "Réserver un rendez-vous",
+    "reviewsCount": "{count, plural, =1 {# avis} other {# avis}}",
+    "minutes": "{count} minutes"
+  },
+  "ServiceOtherServices": {
+    "title": "Vous aimerez peut-être aussi"
+  }
+}

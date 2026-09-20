@@ -1,0 +1,587 @@
+{
+  "Navigation": {
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "reservations": "حجوزاتي",
+    "profile": "الملف الشخصي",
+    "login": "تسجيل الدخول",
+    "bookAppointment": "حجز موعد"
+  },
+  "Branding": {
+    "title": "HK Masso",
+    "subtitle": "استوديو العناية والتدليك"
+  },
+  "Hero": {
+    "imageAlt": "معالج في الاستوديو يجهز غرفة العلاج",
+    "ratingBadge": "تقييم 4.9 من أكثر من 1,200 زائر",
+    "headline": "عناية تعيد إليك توازنك وراحتك.",
+    "subheadline": "جلسات تدليك متخصصة وعناية بالوجه والجسم مصممة خصيصًا حسب احتياجاتك اليوم وما تطمح إليه غدًا.",
+    "bookAppointment": "حجز موعد",
+    "signInToBook": "سجل الدخول لحجز موعد",
+    "exploreServices": "استكشف الخدمات",
+    "licensedPractitioners": "معالجون معتمدون",
+    "easyOnlineBooking": "حجز سهل عبر الإنترنت"
+  },
+  "HomeReviews": {
+    "eyebrow": "آراء زوارنا",
+    "heading": "شعور بالراحة يدوم معك."
+  },
+  "HomeServices": {
+    "eyebrow": "علاجات مختارة",
+    "heading": "عناية مدروسة بأدق التفاصيل.",
+    "viewAll": "عرض جميع الخدمات"
+  },
+  "HomeStats": {
+    "appointments": "موعد مكتمل",
+    "rating": "متوسط تقييم العملاء",
+    "practitioners": "معالجون متخصصون",
+    "returnRate": "نسبة عودة العملاء"
+  },
+  "Footer": {
+    "description": "علاجات مدروسة، معالجون متخصصون، وطريقة أكثر هدوءًا للاعتناء بنفسك.",
+    "discover": {
+      "title": "استكشف",
+      "services": "الخدمات",
+      "about": "من نحن",
+      "bookNow": "احجز الآن"
+    },
+    "account": {
+      "title": "الحساب",
+      "myBookings": "حجوزاتي",
+      "profile": "الملف الشخصي",
+      "login": "تسجيل الدخول"
+    },
+    "visit": {
+      "title": "زورونا",
+      "addressLine1": "18 Rue de la Paix",
+      "addressLine2": "75002 باريس، فرنسا",
+      "hours": "الإثنين–السبت، 9:00–19:00",
+      "phone": "+33 1 84 80 26 40"
+    },
+    "copyright": "© 2026 HK Masso. جميع الحقوق محفوظة.",
+    "legal": "الخصوصية · الشروط · إمكانية الوصول"
+  },
+  "Auth": {
+    "continueWithGoogle": "المتابعة باستخدام Google",
+    "loggingIn": "جاري تسجيل الدخول...",
+    "logout": "تسجيل الخروج",
+    "logoutDialog": {
+      "title": "تسجيل الخروج؟",
+      "description": "هل أنت تأكد من أنك تريد تسجيل الخروج من حسابك؟",
+      "cancel": "إلغاء",
+      "confirm": "تسجيل الخروج",
+      "loggingOut": "جاري تسجيل الخروج..."
+    }
+  },
+  "LoginPage": {
+    "eyebrow": "مرحبًا بعودتك",
+    "heading": "تسجيل الدخول إلى حسابك",
+    "subheading": "الوصول إلى ملف العناية الشخصي وإدارة حجوزاتك بسهولة.",
+    "continueWithFacebook": "المتابعة باستخدام Facebook",
+    "termsPrefix": "بتسجيل الدخول، فإنك توافق على",
+    "termsLink": "شروط الخدمة",
+    "termsAnd": "و",
+    "privacyLink": "سياسة الخصوصية"
+  },
+  "ProfilePage": {
+    "title": "المعلومات الشخصية",
+    "description": "إدارة تفاصيلك الشخصية المستخدمة في المواعيد والإيصالات.",
+    "labels": {
+      "fullName": "الاسم الكامل",
+      "gender": "الجنس",
+      "email": "البريد الإلكتروني"
+    },
+    "genderOptions": {
+      "select": "اختر الجنس",
+      "male": "ذكر",
+      "female": "أنثى"
+    },
+    "saveChanges": "حفظ التغييرات",
+    "updating": "جاري التحديث..."
+  },
+  "SettingsPage": {
+    "title": "إعدادات الحساب",
+    "description": "إدارة حساب العميل الخاص بك.",
+    "deleteAccount": {
+      "title": "حذف الحساب",
+      "description": "حذف حسابك والبيانات المرتبطة به نهائيًا. لا يمكن التراجع عن هذا الإجراء.",
+      "button": "حذف الحساب"
+    },
+    "deleteAccountDialog": {
+      "title": "حذف الحساب؟",
+      "description": "هل أنت تأكد من أنك تريد حذف حسابك؟ هذا الإجراء نهائي ولا يمكن التراجع عنه.",
+      "cancel": "إلغاء",
+      "confirm": "حذف الحساب",
+      "deleting": "جاري حذف الحساب..."
+    }
+  },
+  "ProfileLayout": {
+    "eyebrow": "حسابك",
+    "title": "الملف الشخصي والتفضيلات",
+    "description": "حافظ على تحديث بياناتك واختر كيفية التواصل معك."
+  },
+  "Common": {
+    "loading": "جاري التحميل..."
+  },
+  "NotFoundPage": {
+    "heading": "الصفحة غير موجودة",
+    "description": "الصفحة التي تبحث عنها غير موجودة أو تم نقلها.",
+    "button": "العودة إلى الرئيسية"
+  },
+  "ErrorPage": {
+    "heading": "تعذر تحميل هذه الصفحة",
+    "description": "حدث خطأ ما من جانبنا. يمكنك المحاولة مرة أخرى أو العودة إلى الصفحة الرئيسية.",
+    "tryAgain": "إعادة المحاولة",
+    "goHome": "العودة إلى الرئيسية"
+  },
+  "ProfileSidebar": {
+    "personalInfo": "المعلومات الشخصية",
+    "accountSettings": "إعدادات الحساب"
+  },
+  "BookingsPage": {
+    "metadata": {
+      "title": "مواعيدي",
+      "description": "عرض وإدارة مواعيد العلاج بالتدليك في HK Masso. تتبع الجلسات القادمة وسجل علاجاتك.",
+      "ogTitle": "مواعيدي | HK Masso",
+      "ogDescription": "جلسات التدليك والحجوزات الخاصة بك في HK Masso."
+    },
+    "header": {
+      "eyebrow": "مواعيدك",
+      "title": "حجوزاتي",
+      "description": "تابع علاجاتك القادمة واستعرض سجل جلساتك الصحية."
+    }
+  },
+  "BookingDetailsPage": {
+    "backToBookings": "حجوزاتي",
+    "metadata": {
+      "defaultServiceName": "علاج بالتدليك",
+      "title": "حجز - {serviceName}",
+      "description": "تفاصيل موعدك لدى HK Masso بتاريخ {date}."
+    }
+  },
+  "BookingAside": {
+    "status": "الحالة",
+    "pending": "قيد الانتظار",
+    "confirmed": "مؤكد",
+    "completed": "مكتمل",
+    "cancelled": "ملغى",
+    "total": "المجموع"
+  },
+  "BookingCard": {
+    "serviceImageAlt": "صورة الخدمة",
+    "duration": "{minutes} دقيقة",
+    "details": "التفاصيل"
+  },
+  "BookingDetails": {
+    "serviceImageAlt": "صورة الخدمة",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "duration": "{minutes} دقيقة",
+    "practitioner": "المعالج",
+    "noPractitioner": "المعالج المعين",
+    "customer": "العميل",
+    "notes": "ملاحظات",
+    "noNotes": "لا توجد ملاحظات إضافية."
+  },
+  "BookingReview": {
+    "title": "تقييم الجلسة",
+    "existingFeedback": "لقد شاركت رأيك حول هذا العلاج:",
+    "prompt": "كيف كانت تجربتك؟ اترك تقييمًا لمساعدتنا في الحفاظ على مستوى الرعاية المتميز لدينا."
+  },
+  "BookingsFilter": {
+    "all": "الكل",
+    "pending": "قيد الانتظار",
+    "confirmed": "مؤكد",
+    "completed": "مكتمل",
+    "cancelled": "ملغى"
+  },
+  "BookingsListAndFilter": {
+    "emptyAllTitle": "لم يتم العثور على حجوزات",
+    "emptyAllDescription": "لم تقم بإجراء أي حجوزات بعد.",
+    "emptyFilteredTitle": "لا توجد حجوزات حالة: {status}",
+    "emptyFilteredDescription": "ليس لديك أي مواعيد بحالة \"{status}\".",
+    "statuses": {
+      "all": "الكل",
+      "pending": "قيد الانتظار",
+      "confirmed": "مؤكد",
+      "completed": "مكتمل",
+      "cancelled": "ملغى"
+    }
+  },
+  "CancelBookingDialog": {
+    "title": "إلغاء الحجز؟",
+    "description": "هل أنت تأكد من أنك تريد إلغاء هذا الحجز؟ لا يمكن التراجع عن هذا الإجراء.",
+    "keepBooking": "الاحتفاظ بالحجز",
+    "confirmCancel": "نعم، إلغاء",
+    "cancelling": "جارٍ الإلغاء...",
+    "defaultError": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+  },
+  "CancelButton": {
+    "cancelAppointment": "إلغاء الموعد"
+  },
+  "EmptyBookings": {
+    "defaultTitle": "لم يتم العثور على حجوزات",
+    "defaultDescription": "ليس لديك أي مواعيد مجدولة تحت هذا التصفية.",
+    "bookButton": "حجز موعد"
+  },
+  "ReviewCard": {
+    "ratingScore": "{rating} / 5"
+  },
+  "ReviewForm": {
+    "ratingLabel": "{count} من 5 نجوم",
+    "placeholder": "أخبرنا برأيك حول الخدمة أو المعالج...",
+    "submit": "إرسال التقييم",
+    "submitting": "جارٍ الإرسال..."
+  },
+  "ContactPage": {
+    "metadata": {
+      "title": "اتصل بنا",
+      "description": "تواصل مع HK Masso. هل لديك أسئلة حول خدمات التدليك، الأسعار، أو الحجز؟ اتصل بنا بسهولة عبر الهاتف أو النموذج.",
+      "keywords": {
+        "1": "اتصل بـ HK Masso",
+        "2": "حجز موعد تدليك",
+        "3": "عنوان مركز التدليك",
+        "4": "رقم هاتف HK Masso",
+        "5": "معلومات العلاج بالتدليك"
+      },
+      "openGraph": {
+        "title": "اتصل بنا | HK Masso",
+        "description": "هل تحتاج إلى معلومات أو مساعدة في حجزك؟ تواصل مع فريق HK Masso."
+      }
+    },
+    "eyebrow": "تواصل معنا",
+    "headerTitle": "نحن هنا للمساعدة.",
+    "headerDescription": "هل لديك أسئلة حول جلسة علاجية أو زيارتك القادمة؟ يسعد فريق المركز بتوجيهك.",
+    "visitTitle": "زيارة المركز",
+    "phoneLabel": "اتصل بنا",
+    "emailLabel": "البريد الإلكتروني",
+    "addressLabel": "العنوان",
+    "addressValue": "18 شارع دو لا بي، 75002 باريس",
+    "hoursLabel": "ساعات العمل",
+    "hoursValue": "الإثنين–السبت، 9:00–19:00",
+    "studioName": "استوديو سيرينيتي ويلنس",
+    "studioLocation": "وسط باريس · على بعد 3 دقائق من أوبرا"
+  },
+  "ContactForm": {
+    "formTitle": "إرسال رسالة",
+    "nameLabel": "الاسم",
+    "namePlaceholder": "اسمك الكامل",
+    "emailLabel": "البريد الإلكتروني",
+    "emailPlaceholder": "name@email.com",
+    "phoneLabel": "الهاتف",
+    "phonePlaceholder": "رقم هاتفك",
+    "subjectLabel": "الموضوع",
+    "subjects": {
+      "booking": "سؤال حول الحجز",
+      "advice": "استشارة علاجية",
+      "general": "استفسار عام"
+    },
+    "messageLabel": "الرسالة",
+    "messagePlaceholder": "كيف يمكننا مساعدتك؟",
+    "submitButton": "إرسال الرسالة"
+  },
+  "AboutPage": {
+    "metadata": {
+      "title": "من نحن",
+      "description": "اكتشف قصة HK Masso، فلسفتنا في العلاج بالتدليك، والتزامنا بتقديم خدمات مخصصة لراحة بالك وصحتك.",
+      "keywords": {
+        "1": "عن HK Masso",
+        "2": "معالج تدليك مؤهل",
+        "3": "فلسفة التدليك العلاجي",
+        "4": "مركز التدليك",
+        "5": "الاسترخاء والراحة"
+      },
+      "openGraph": {
+        "title": "من نحن | HK Masso",
+        "description": "اكتشف قصة ونهج HK Masso. خدمات تدليك مصممة لتلبية احتياجاتك لراحة عميقة."
+      }
+    },
+    "eyebrow": "قصتنا",
+    "headerTitle": "العناية بالصحة والراحة تجربة شخصية مميزة.",
+    "headerDescription": "بدأت سيرينيتي بإيمان بسيط: العناية الخبيرة تكون أكثر فاعلية عندما يشعر الشخص بالاهتمام والراحة دون استعجال.",
+    "heroImageAlt": "أخصائي سيرينيتي يقدم التجهيزات في المركز",
+    "since": "منذ عام 2018",
+    "storyTitle": "عناية أكثر هدوءاً واهتماماً.",
+    "storyDescription": "أنشأنا سيرينيتي لتكون حلاً بديلاً للمواعيد السريعة والعلاجات التقليدية. يجمع أخصائيونا بين الخبرة العميقة والاهتمام الصادق لجعل كل زيارة مخصصة لك.",
+    "values": {
+      "care": {
+        "title": "الاهتمام العميق",
+        "text": "نستمع جيداً قبل البدء في العلاج."
+      },
+      "trust": {
+        "title": "كسب الثقة",
+        "text": "شفافية، خبرة، وموثوقية."
+      },
+      "details": {
+        "title": "الاهتمام بالتفاصيل",
+        "text": "كل لمسة وتفصيل يصنع الفارق."
+      },
+      "human": {
+        "title": "اللمسة الإنسانية",
+        "text": "الدفء جزء أساسي من العلاج."
+      }
+    },
+    "stats": {
+      "completed": "موعد مكتمل",
+      "rating": "متوسط تقييم العملاء",
+      "practitioners": "أخصائيون خبراء",
+      "returnRate": "نسبة عودة العملاء"
+    },
+    "teamEyebrow": "فريق العمل",
+    "teamTitle": "أيدٍ خبيرة. عناية فائقة.",
+    "team": {
+      "worker1": {
+        "name": "هشام رحماني",
+        "role": "أخصائي تدليك أول"
+      },
+      "worker2": {
+        "name": "صوفيا عماري",
+        "role": "أخصائية استرخاء وعناية"
+      },
+      "worker3": {
+        "name": "نادية بن سالم",
+        "role": "أخصائية تجميل أولى"
+      }
+    }
+  },
+  "ReservationPage": {
+    "metadata": {
+      "title": "حجز جلسة",
+      "description": "احجز جلسة التدليك الخاصة بك عبر الإنترنت في HK Masso. اختر علاجك، حدد موعدك والمعالج في بضع خطوات بسيطة.",
+      "keywords": {
+        "1": "حجز تدليك",
+        "2": "موعد علاج بالتدليك",
+        "3": "حجز عبر الإنترنت HK Masso",
+        "4": "تدليك مخصص"
+      },
+      "openGraph": {
+        "title": "حجز جلسة | HK Masso",
+        "description": "احجز جلسة التدليك المخصصة لك عبر الإنترنت. اختر علاجك والوقت المناسب لك في HK Masso."
+      }
+    }
+  },
+  "BookingButton": {
+    "continue": "متابعة",
+    "confirm": "تأكيد الحجز",
+    "creating": "جاري الحجز..."
+  },
+  "BookingHeader": {
+    "steps": {
+      "service": "الخدمة",
+      "details": "بياناتك",
+      "practitioner": "المعالج",
+      "date": "التاريخ",
+      "time": "الوقت",
+      "review": "المراجعة"
+    },
+    "descriptions": {
+      "service": "اختر نوع العلاج",
+      "details": "أدخل معلوماتك الشخصية",
+      "practitioner": "اختر المعالج المناسب",
+      "date": "اختر تاريخ الجلسة",
+      "time": "اختر الوقت المناسب",
+      "review": "راجع تفاصيل حجزك"
+    }
+  },
+  "BookingStepper": {
+    "steps": {
+      "service": "الخدمة",
+      "details": "بياناتك",
+      "practitioner": "المعالج",
+      "date": "التاريخ",
+      "time": "الوقت",
+      "review": "المراجعة"
+    }
+  },
+  "BookingSummary": {
+    "title": "تفاصيل حجزك",
+    "duration": "{count, plural, =1 {دقيقة واحدة} =2 {دقيقتان} few {# دقائق} many {# دقيقة} other {# دقيقة}}",
+    "total": "المجموع"
+  },
+  "CalendarError": {
+    "message": "فشل في جلب البيانات: {error}",
+    "unknownError": "خطأ غير معروف"
+  },
+  "CustomerStep": {
+    "labels": {
+      "fullName": "الاسم الكامل",
+      "gender": "الجنس",
+      "email": "البريد الإلكتروني",
+      "phone": "رقم الهاتف",
+      "notes": "ملاحظات للمعالج"
+    },
+    "placeholders": {
+      "selectGender": "اختر الجنس",
+      "phone": "+213555000000",
+      "notes": "أي تفضيلات، حساسيات أو مناطق تركيز خاصة؟"
+    },
+    "genderOptions": {
+      "male": "ذكر",
+      "female": "أنثى"
+    }
+  },
+  "GoBack": {
+    "back": "رجوع",
+    "services": "الخدمات",
+    "stepIndicator": "الخطوة {current} من {total}"
+  },
+  "Legend": {
+    "available": "متاح",
+    "today": "اليوم",
+    "unavailable": "غير متاح"
+  },
+  "ReviewStep": {
+    "service": "الخدمة",
+    "duration": "المدة",
+    "practitioner": "المعالج",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "price": "السعر",
+    "notAvailable": "غير محدد",
+    "notSelected": "لم يتم التحديد",
+    "durationFormat": "{count} دقيقة"
+  },
+  "ServiceStep": {
+    "fromPrice": "ابتداءً من {price}",
+    "chooseDuration": "اختر المدة",
+    "minutesFormat": "{count} دقيقة"
+  },
+  "Success": {
+    "eyebrow": "تم تأكيد الحجز",
+    "heading": "تم حجز موعدك بنجاح.",
+    "confirmationText": "نتطلع لاستقبالك. تم إرسال تأكيد الحجز إلى <strong>{email}</strong>.",
+    "reference": "رقم المرجع",
+    "treatment": "نوع العلاج",
+    "dateTime": "التاريخ والوقت",
+    "total": "المجموع",
+    "viewBookings": "عرض حجوزاتي",
+    "backHome": "العودة للرئيسية"
+  },
+  "TimesEmpty": {
+    "title": "لا توجد أوقات متاحة",
+    "description": "لا توجد مواعيد متاحة في هذا التاريخ. يرجى اختيار يوم آخر."
+  },
+  "TimesError": {
+    "message": "فشل في جلب البيانات: {error}",
+    "unknownError": "خطأ غير معروف"
+  },
+  "TimeStep": {
+    "localTimeNotice": "الأوقات المعروضة بالتوقيت المحلي الخاص بك"
+  },
+  "WorkersEmpty": {
+    "noPractitioners": "لا يوجد ممارسون متاحون يتوافقون مع تفضيلاتك."
+  },
+  "WorkersError": {
+    "message": "فشل في تحميل الممارسين: {error}",
+    "unknownError": "خطأ غير معروف"
+  },
+  "WorkerStep": {
+    "roles": {
+      "therapist": "معالج",
+      "masseur": "مدلك",
+      "masseuse": "مدلكة",
+      "practitioner": "ممارس"
+    }
+  },
+  "SuccessPage": {
+    "defaultServiceName": "جلسة تدليك",
+    "metadataTitle": "تأكيد الحجز - {serviceName}",
+    "metadataDescription": "تم تأكيد حجزك لدى HK Masso بنجاح."
+  },
+  "BookingFailedPage": {
+    "metadataTitle": "فشل الحجز - HK Masso",
+    "metadataDescription": "حدثت مشكلة أثناء معالجة حجزك في HK Masso.",
+    "eyebrow": "فشل الحجز",
+    "title": "لم تكتمل عملية الحجز",
+    "defaultMessage": "لم نتمكن من معالجة حجزك بسبب تعارض في المواعيد أو خطأ في النظام.",
+    "whatHappenedTitle": "ماذا حدث؟",
+    "whatHappenedDetails": "ربما تم حجز الموعد المحدد من قبل شخص آخر أو انتهت مهلة الجلسة. يرجى محاولة اختيار وقت آخر أو المحاولة مجدداً.",
+    "tryAgain": "إعادة المحاولة",
+    "backToHome": "العودة للرئيسية"
+  },
+  "ServiceCard": {
+    "featured": "مميز",
+    "from": "ابتداءً من",
+    "viewDetails": "عرض التفاصيل",
+    "categories": {
+      "massage": "تدليك",
+      "relaxing": "استرخائي",
+      "therapeutic": "علاجي"
+    }
+  },
+  "ServicesList": {
+    "emptyTitle": "لم يتم العثور على أي علاجات",
+    "emptyText": "جرب بحثاً آخر أو قم بإزالة أدوات التصفية.",
+    "emptyAction": "إزالة أدوات التصفية",
+    "treatmentsCount": "{count, plural, =0 {لا توجد علاجات} =1 {علاج واحد} =2 {علاجان} zero {0 علاج} few {# علاجات} many {# علاجاً} other {# علاج}}"
+  },
+  "ServicesSearch": {
+    "placeholder": "ابحث عن العلاجات بالاسم أو الفئة",
+    "featured": "المميزة",
+    "categories": {
+      "all": "الكل",
+      "massage": "تدليك"
+    }
+  },
+  "ServicesPage": {
+    "eyebrow": "خدماتنا",
+    "title": "علاجات مصممة لتناسب احتياجاتك بالكامل.",
+    "description": "استكشف طقوساً مدروسة يقدمها ممارسون ذوو خبرة، مع توفير الوقت والعناية الكاملة في كل موعد.",
+    "metadata": {
+      "title": "خدماتنا وعلاجاتنا",
+      "description": "استكشف قائمتنا الكاملة لخدمات العلاج بالتدليك: تدليك الاسترخاء، الأنسجة العميقة، السويدي، الأيورفيدا، الأحجار الساخنة، العلاجي والمزيد.",
+      "ogTitle": "خدماتنا وجلسات التدليك | HK Masso",
+      "ogDescription": "اكتشف جميع علاجاتنا وجلسات التدليك المخصصة. احجز جلستك العلاجية المصممة حسب طلبك في HK Masso.",
+      "keywords": {
+        "massageTreatments": "علاجات التدليك",
+        "massageMenu": "قائمة التدليك",
+        "deepTissue": "تدليك الأنسجة العميقة",
+        "swedish": "التدليك السويدي",
+        "ayurvedic": "تدليك الأيورفيدا",
+        "hotStones": "التدليك بالأحجار الساخنة",
+        "therapeutic": "التدليك العلاجي",
+        "sportsMassage": "التدليك الرياضي",
+        "hkMasso": "علاج HK Masso"
+      }
+    }
+  },
+  "ServiceDetailsPage": {
+    "metadata": {
+      "massageTherapy": "العلاج بالتدليك",
+      "massageTreatment": "جلسة تدليك",
+      "hkMasso": "HK Masso",
+      "massageBooking": "حجز تدليك"
+    }
+  },
+  "ServiceReviewsPage": {
+    "backToService": "العودة إلى الخدمة",
+    "title": "تقييمات العملاء",
+    "reviewsCount": "{count, plural, =1 {تقييم} other {تقييمات}}",
+    "guestUser": "زائر",
+    "empty": {
+      "title": "لا توجد تقييمات بعد",
+      "description": "لم تتلق هذه الخدمة أي تقييمات من العملاء بعد. كن أول من يجربها!"
+    },
+    "metadata": {
+      "title": "تقييمات العملاء",
+      "description": "اقرأ آراء وتقييمات العملاء الحقيقية لـ {serviceName}."
+    }
+  },
+  "ServiceBenefitsAndReviews": {
+    "eyebrow": "ماذا تتوقع",
+    "title": "علاج مصمم خصيصاً لك.",
+    "anonymousGuest": "عميل زائر"
+  },
+  "ServiceDetails": {
+    "allServices": "جميع الخدمات",
+    "consultationNote": "تبدأ كل جلسة بستشارة قصيرة حتى يتمكن الممارس من تخصيص الضغط والوتيرة ومناطق التركيز المناسبة لك.",
+    "bookAppointment": "حجز موعد",
+    "reviewsCount": "{count, plural, =1 {تقييم واحد} =2 {تقييمان} few {# تقييمات} many {# تقييماً} other {# تقييم}}",
+    "minutes": "{count, plural, =1 {دقيقة واحدة} =2 {دقيقتان} few {# دقائق} many {# دقيقة} other {# دقيقة}}"
+  },
+  "ServiceOtherServices": {
+    "title": "قد يعجبك أيضاً"
+  }
+}
